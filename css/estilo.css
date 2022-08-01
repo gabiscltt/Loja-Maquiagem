@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+
+.topo{
+    padding:20px 0;
+    background-color: #302B34;
+    box-shadow: 5px 10px;
+}
+.topo a{
+    font-size: 22px
+}
+.xx{
+    margin-top:25px
+}
+.compra1{
+    margin-top: 25px
+}
+.numero{
+    background-color:#ff0099;
+    font-size:28px;
+    padding-left: 19px;
+    padding-right: 20px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.textodestaque{   
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+    padding-right:13%;
+    font-size: 21px
+}
+.teamwork{
+    margin: 50px;
+}
+.numero2{
+    background-color:#ff0099;
+    font-size:25px;
+    padding-left: 19px;
+    padding-right: 20px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    margin-top: 10px;
+    margin-left: 35%;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.compra{
+    background-color: #ff0099;
+}
+.letra{
+    color:#ff0099;
+    font-family: 'Oswald', sans-serif;
+    font-size:larger;
+}
+.banner-topo{
+    background-color:black;
+    color:white;
+    overflow-x: hidden;
+}
+.imgbanner{
+    margin-left:0
+}
+.textobanner{
+    padding:20px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+}
+.cor{
+    color:#ff0099;
+    
+}
+.destaque{
+    background-color: #302B34;
+}
+.word{
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px
+}
+.who{
+    background-color: #000000;    
+    overflow-x: hidden;
+}
+.titulos,.new, .titulos2{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
+.new{
+    font-size: 26px;
+    margin-top: 50px;
+}
+.titulos{
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    margin-top:10px;
+}
+.titulosx{
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    margin-top:10px;
+    font-size: 37px;
+    color: white;
+}
+.titulos2{
+    margin-top:40px;
+    font-weight: bold;    
+    font-family: 'Oswald', sans-serif;
+}
+.infor{
+    margin-top: 30%;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 28px;
+}
+.vendas{
+    background-color: #302B34;
+}
+.vendas2{
+    background-color:#000000;
+}
+.cartao{
+    background-color: #000000;
+}
+.cartao2{
+    background-color:#302B34;
+}
+.texto{
+    color: white;  
+    font-family: 'Quicksand', sans-serif; 
+    font-size: large
+}
+.comprax{
+    background-color:#ff0099;
+    font-family: 'Lato', sans-serif;
+    font-size:18px;
+    color: white;
+    margin-left: 26%
+}
+.clientes{
+    background-color: #000000;
+    color: white;
+
+}
+.x{
+    background-color: #ff0099;
+}
+.frase{
+    font-size:24px;
+    margin-left:120px;
+    margin-right:120px;
+    font-family: 'Quicksand', sans-serif;
+}
+.frase2{
+    font-size:large;
+    margin-bottom: 7%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger
+}
+footer{
+    background-color:#302B34;
+    color: white;
+}
+.rodape{
+    padding-top: 30px;
+    margin-bottom:20px
+}
+.contato h4, .endereco h4{
+    font-family: 'Lato', sans-serif;
+}
+.contato, .endereco{
+    line-height:15px;
+    font-family: 'Quicksand', sans-serif;
+}
+.contato img{
+    display:inline-block;
+    padding-right:10px
+}
+.creditos{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px
+}
