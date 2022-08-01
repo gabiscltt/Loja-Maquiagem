@@ -1,1 +1,1 @@
-Loja de maquiagem utilizando Bootstrap, HTML e CSS.
+Loja de maquiagem utilizando HTML, CSS e Bootstrap.
