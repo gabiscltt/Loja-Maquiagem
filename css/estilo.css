@@ -101,6 +101,9 @@
 .linha{
     height: 32px
 }
+.linha2{
+    height: 45px;
+}
 .titulosx{
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
