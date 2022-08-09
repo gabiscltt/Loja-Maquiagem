@@ -98,6 +98,9 @@
     font-family: 'Oswald', sans-serif;
     margin-top:10px;
 }
+.linha{
+    height: 32px
+}
 .titulosx{
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
